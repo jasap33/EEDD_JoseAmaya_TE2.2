@@ -11,6 +11,7 @@ El documento justificativo de la realización de la tarea se realizará en forma
 
 El fichero readme.md debe contener los siguientes apartados:
 
+
 Cada uno de los puntos de la tarea.
 Explicación de los pasos realizados y una imagen/gif justificativo del paso. (las imagenes se guardarán en la carpeta UT2\TE2.2\img).
 El nombre de la imagen debe ser el número del punto y subpunto seguido de la extensión correspondiente (.png, .jpg, .gif).

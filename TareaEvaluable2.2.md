@@ -139,7 +139,7 @@ git merge fea/wac01: Este comando combina los cambios de la rama fea/wac01 con l
 
 Muestra el estado del repositorio, el log, y los ficheros que hay en el directorio. (Imagen/gif visualizando los comandos) adjunta la imagen
 
-![](cap1.png)
+![Cap1](img/cap1.png)
 
 Elimina la rama fea/wac01 sin posibilidad de recuperación. ¿Qué comando/s utilizas?
 
@@ -151,7 +151,7 @@ Realiza un merge de la rama fea/wac02 en la rama main.
 
 Muestra el estado del repositorio, el log, y los ficheros que hay en el directorio. (Imagen) adjunta la imagen
 
-![](cap2.png)
+![Cap2](img/cap2.png)
 
 Vuelve a la rama fea/wac02 y modifica el fichero 03.xml añadiendo un nuevo libro.
 
@@ -178,7 +178,7 @@ Agrega al área de stage y realiza commit "Update 03 file. Add book El Silmarill
 
 Posicionate en la rama main, muestra el estado y muestra el contenido del fichero cat 03.xml. (Imagen visualizando comandos) adjunta la imagen
 
-![](cap3.png)
+![Cap3](img/cap3.png)
 
 Realiza un merge de la rama fea/wac02 en la rama main. ¿Qué comando/s utilizas?
 
@@ -186,7 +186,7 @@ Realiza un merge de la rama fea/wac02 en la rama main. ¿Qué comando/s utilizas
 
 Muestra el estado del repositorio, y muestra el contenido del fichero 03.xml. (Imagen visualizando comandos) adjunta la imagen
 
-![](cap4.png)
+![Cap4](img/cap4.png)
 
 Ahora, en la rama main modifica el fichero 03.xml incluyendo un nuevo libro.
 
@@ -236,19 +236,19 @@ Agrega al área de stage y realiza commit "Add 04 file. Add cienca-ficcion books
 
 Muestra el estado, log una línea y los ficheros que hay en el directorio. (Imagen visualizando comandos) adjunta la imagen
 
-![](cap5.png)
+![Cap5](img/cap5.png)
 
 Vuelve un commit atrás, y muestra el estado, log una línea y los ficheros que hay en el directorio. (Imagen visualizando comandos) adjunta la imagen
 
-![](cap6.png)
+![Cap6](img/cap6.png)
 
 Vuelve al commit anterior, y muestra el estado, log una línea y los ficheros que hay en el directorio. (Imagen visualizando comandos) adjunta la imagen
 
-![](cap7.png)
+![Cap7](img/cap7.png)
 
 Posicionate de nuevo en el último commit, y muestra el estado, log una línea y los ficheros que hay en el directorio. (Imagen visualizando comandos) adjunta la imagen
 
-![](cap8.png)
+![Cap8](img/cap8.png)
 
 2. Crear repositorio remoto y subir a GITHUB
 
@@ -312,7 +312,7 @@ Ahora desde GITHUB (web) en la rama fea\wac02, modifica el fichero 03.xml añadi
 </libreria>
 Realiza un commit con el mensaje "Update 03 file. Add book El hombre bicentenario". (Muestra pantallazo de GITHUB con el commit realizado) adjunta la imagen
 
-![](cap9.png)
+![Cap9](img/cap9.png)
 
 Ahora obten los cambios sin acualizar el repositorio local (git fetch origin).
 
@@ -320,17 +320,17 @@ Ahora obten los cambios sin acualizar el repositorio local (git fetch origin).
 
 Muestra un log del repositorio local con opciones gráficas. (Incluye imagen) adjunta la imagen
 
-![](cap10.png)
+![Cap10](img/cap10.png)
 
 Ahora actualiza el repositorio local con los cambios del repositorio remoto (git pull origin fea/wac02).
 
 Muestra un log del repositorio local con opciones gráficas. (Incluye imagen) adjunta la imagen
 
-![](cap11.png)
+![Cap11](img/cap11.png)
 
 Haz un merge de la rama fea/wac02 en la rama main. Muestra estado, log, y el contenido fichero 03.xml (Incluye imagen) adjunta la imagen
 
-![](cap12.png)
+![Cap12](img/cap12.png)
 
 Sube la rama main al repositorio remoto. ¿Qué comando/s utilizas?
 
@@ -346,7 +346,7 @@ Elimina la rama remota fea/wac02 sin posibilidad de recuperación (git push orig
 
 Muestra desde GITHUB (navegador web) las ramas que tienes el en repositorio remoto. (Incluye imagen) adjunta la imagen
 
-![](cap13.png)
+![Cap13](img/cap13.png)
 
 
 3. Enlace repositorio remoto
